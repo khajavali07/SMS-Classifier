@@ -1,0 +1,3 @@
+  In this task, we will create a machine learning model that will classify SMS messages as either "spam" or "non-spam". A "non-spam" message is a normal message sent by a friend. A "spam" message is an advertisement or a message sent by a company..
+  We need to create a function called preprocess_text that takes a message string as an argument and returns a lowercase string. Then removes the special characters and white spaces.Then return the text and another function predict_spam_percentage will find what percentage of the returned message string is spam.
+  For this challenge, you will use the SMS Spam Collection dataset. The dataset has been grouped into train data and test data.
